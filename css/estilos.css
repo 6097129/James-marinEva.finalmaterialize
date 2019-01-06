@@ -1,0 +1,68 @@
+img{
+width:185px; height:135px; margin-top: 10px; margin-left: 57px;
+}
+nav {background-color: #e020fb;}
+
+a i{margin-left:10px;}
+
+h1 {margin-left: 245px; margin-top: -115px; font-size: 36px;  font-style: oblique; }
+
+.row{margin-top: -300px; margin-left: 45px;} 
+
+ul{margin-top: 85px; margin-left: 2px;}
+
+h1 .color1{color: red;} 
+
+h1 .color2{color: cyan;}
+
+h1 .color3{color: white;}
+
+img.pequeña{width:35px; height:38px;}
+
+img.mediana{width: 20em; height:10.7em; margin-left: 40px; margin-bottom:-2px;}
+
+img.grande{width: 20em; height:16.5em; margin-left: 40px; margin-bottom:-1.5px;}
+
+
+
+@media screen and (min-width: 899px){
+
+
+.p, .strong{margin-left: 145px;
+color:white;
+font-size: 18px;
+font-style: oblique;
+text-align:center;}
+}
+
+.cambio{
+color:white; font-style: oblique; 
+}
+
+h5{margin-top: 15px;}
+
+h1{
+   text-shadow: 3px 4px #999;
+}
+h6{text-align:center; color: white; font-size: 20px;  font-style: oblique;}
+center img{margin-left: 5px; width:8.5em; height:8.5em;}
+
+	p strong{margin-left: 145px; color:white; font-size: 19px;  font-style: oblique; text-align:center;}
+	
+	
+h7{color:white; margin-left:5px;}
+textarea {color:white;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+border: solid 3px white;}
+
+legend{color:white;}.btn{margin-bottom:5px;}label{color:white;}
+input{text-align:center; margin-bottom:2px;}
+footer{color:white; text-align:center;}
+h5{margin-left: -3px; color:white;}
+body{
+background-image: url("../img/circuito4..jpg");
+background-attachment: fixed;
+background-no-repeat: round;
+}
